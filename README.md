@@ -1,6 +1,6 @@
 # Trianglify-free
 
-[`Try it online`](trianglify.findnick.xyz)
+[`Try it online`](https://trianglify.findnick.xyz)
 
 `Trianglify.io` is not for free;
 
